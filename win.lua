@@ -1,3 +1,4 @@
+-- taken from https://github.com/wate/clink_completion/blob/master/win.lua
 local pscp_parser = clink.arg.new_parser()
 pscp_parser:set_flags(
 	"-ls",

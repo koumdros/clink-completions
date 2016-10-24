@@ -1,3 +1,4 @@
+-- taken from https://github.com/a1dutch/clink-completions
 local parser = clink.arg.new_parser
 
 local file_parser = parser()
